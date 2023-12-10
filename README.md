@@ -42,7 +42,7 @@
 </div>
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🥇 Stats </h2>
-<div margin=auto>
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px">
 </div>
