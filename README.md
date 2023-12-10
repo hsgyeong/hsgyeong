@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto&width=1200)
 
-<h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2>
+<h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
 |기간|내용|역할|
 |------|---|---|
 |2023.09.01~2023.09.22|Jeju하다|리뷰페이지|
