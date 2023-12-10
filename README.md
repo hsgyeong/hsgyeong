@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto)
 
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
 
