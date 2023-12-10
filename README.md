@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SG%20GitHub&fontSize=50&fontColor=auto&font-weight=lighter)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SG%20GitHub&fontSize=50&fontColor=auto&fontWeight=lighter)
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 😃 About me </h2>
 끊임없이 도전하고 성장하여 사용자에게 가치있는 경험을 전하는 개발자가 되겠습니다.<br><br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
