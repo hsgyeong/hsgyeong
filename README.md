@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto)
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="20%">
-<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="20%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="10%" height="30px">
+<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="10%" height="30px">
 </div>
 
 
