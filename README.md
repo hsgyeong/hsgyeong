@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SG%20GitHub&fontSize=50&fontColor=auto)
-
+<h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 😃 About me </h2><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
 
 | 기간                  	| 내용     	| 역할                                                 	|
