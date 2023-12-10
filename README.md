@@ -7,7 +7,8 @@
     Frontend<br><br>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat&logo=bootstrap&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
     <br><br>
     Backend<br><br>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
