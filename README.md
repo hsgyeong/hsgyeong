@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=#FA8072&height=200&section=header&text=Seonggyeong%20GitHub&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Seonggyeong%20GitHub&fontSize=50)
 
