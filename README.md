@@ -11,14 +11,14 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🛠️ Tech Stacks </h2><br>
 <div>
-    Frontend<br><br>
+    <b>Frontend</b><br><br>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat&logo=bootstrap&logoColor=white"><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
     <br><br>
-    Backend<br><br>
+    <b>Backend</b><br><br>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"><br>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
     <br><br>
-    Databases<br><br>
+    <b>Databases</b><br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">
  
