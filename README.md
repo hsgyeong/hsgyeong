@@ -39,12 +39,12 @@
    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon&20EC2&logoColor=white"><br>
    
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">
 </div>
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💜 Contact me </h2>
 <a href="https://project-sg.tistory.com"><img src="http://img.shields.io/badge/tistory-655ced?style=flat&logo=tistory&link=https://project-sg.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://github.com/hsgyeong"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&link=https://project-sg.tistory.com"&logoColor=white/>    
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🥇 Stats </h2>
 <div align=center>
