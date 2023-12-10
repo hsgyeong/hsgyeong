@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto&width=1200)
 
-|제목|내용|설명|
+<h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2>
+|기간|내용|역할|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|2023.09.01~2023.09.22|Jeju하다|리뷰페이지|
+|2023.11.12~2023.11.30|TRIVIEW|로그인/로그아웃, 회원가입, 마이페이지, 예약 숙소 리스트|
+
 
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
