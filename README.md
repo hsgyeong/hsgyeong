@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto)
 
-<div display=flex>
+<div display=d-inline-flex>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact">
 <div align=right>
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true">
