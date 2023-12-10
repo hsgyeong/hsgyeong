@@ -26,19 +26,16 @@
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">
     <br><br>
     <b>Databases</b><br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">
- 
- 
-  
-   
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">
-   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon&20EC2&logoColor=white"><br>
-   
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">
+    <br><br>
+   <!-- <b>Communication</b><br><br>
+    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon&20EC2&logoColor=white">
+     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">-->  
 </div>
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💜 Contact me </h2>
