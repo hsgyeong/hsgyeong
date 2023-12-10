@@ -2,11 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto&width=1200)
 
-<div margin=auto>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
-<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px">
-</div>
-<br><br>
 <h2 > 🛠️ Tech Stacks </h2>
 <div>
     Frontend<br>
@@ -29,7 +24,14 @@
 
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">
-</div><br>
+</div>
+<br><br>
+<div margin=auto>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
+<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px">
+</div>
+<br><br>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&width=1200)
 
