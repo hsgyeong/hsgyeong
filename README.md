@@ -26,7 +26,7 @@
    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">
-   <img src="https://img.shields.io/badge/Amazon%2OEC2-FF99OO?style=flat&logo=Amazon&2OEC2&logoColor=white">
+   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon&20EC2&logoColor=white">
 
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">
