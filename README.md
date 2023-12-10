@@ -2,12 +2,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto)
 
+<div style="display:flex; justify-content: space-between;">
+<div style="flex:1; margin-right:20px;">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact&hide_border=true&langs_count=10)
 <!--(https://github.com/hsgyeong/github-readme-stats)-->
-<div float="right">
+</div>
+<div style="flex:1;">   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsgyeong)
 <!--(https://github.com/hsgyeong/github-readme-stats)-->
 </div>
+</div>    
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 
