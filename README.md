@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-    
     <br><br>
     Databases<br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
