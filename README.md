@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px">
 </div>
 <br><br>
-<h2 style="border-bottom: 1px solid #d8dee4;color: #282d33;" width="100px"> 🛠️ Tech Stacks </h2>
+<h2 style="border-bottom: 1px solid #d8dee4;color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
