@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type="wave"&color="#90EE90"&height="80px"&section=header&text="안녕하세요"&fontSize="30px" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
