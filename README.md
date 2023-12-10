@@ -5,9 +5,9 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
 
-|소속 및 단체            	| 기간     	| 내용                                                                 |
-|-----------------------	|----------	|--------------------------------------------------------------------  |
-| 쌍용교육센터	| 2023.06 ~ 2023.12 	| AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료|
+|소속 및 단체            	| 기간     	| 내용                                                             |
+|-----------------------	|----------	|----------------------------------------------------------------  |
+| 쌍용교육센터	| 2023.06 ~ 2023.12 | AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료|
 
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
