@@ -44,8 +44,7 @@
 </div>
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💜 Contact me </h2>
-<a href="https://project-sg.tistory.com"><img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=tistory&link=https://project-sg.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-출처: https://byul91oh.tistory.com/213 
+<a href="https://project-sg.tistory.com"><img src="http://img.shields.io/badge/tistory-655ced?style=flat&logo=tistory&link=https://project-sg.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🥇 Stats </h2>
 <div align=center>
