@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongGyeong%20GitHub&fontSize=50&fontColor=auto)
 
+<div display=flex>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact">
 <div align=right>
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true">
 </div>
-
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
