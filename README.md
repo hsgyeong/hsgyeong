@@ -6,11 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px">
 </div>
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&width=1200)
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-
+<br><br>
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
@@ -28,4 +24,9 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">
 </div><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&width=1200)
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+
+
 
