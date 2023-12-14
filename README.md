@@ -54,6 +54,7 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px">
+![Solved.sc](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)
 </div>
 <br><br>
 
