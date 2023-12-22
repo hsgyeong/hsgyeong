@@ -51,10 +51,10 @@
 <a href="https://github.com/hsgyeong"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&link=https://project-sg.tistory.com"&logoColor=white/>    
 <br><br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🥇 Stats </h2>
-<div align=center>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711/)<br><br>    
+<div align=center>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
-<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px"><br><br><br><br><br><br><br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px"><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711/)<br><br>  
 </div>
 <br><br>
 
