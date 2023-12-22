@@ -53,9 +53,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px"><br><br>
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711&width=40%)](https://solved.ac/sgyeong0711/)<br>
 
-<img src="http://mazandi.herokuapp.com/api?handle=sgyeong0711&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=sgyeong0711&theme=warm" style="width:40%"/>
 </div>
 <br><br>
     
