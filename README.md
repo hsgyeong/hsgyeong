@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SG%20GitHub&fontSize=50&fontColor=auto&fontWeight=light)
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 😃 About me </h2>
 끊임없이 도전하고 성장하여 사용자에게 가치있는 경험을 전하는 개발자가 되겠습니다.<br><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711/)
 
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
 
@@ -50,6 +49,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💜 Contact me </h2>
 <a href="https://project-sg.tistory.com"><img src="http://img.shields.io/badge/tistory-655ced?style=flat&logo=tistory&link=https://project-sg.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href="https://github.com/hsgyeong"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&link=https://project-sg.tistory.com"&logoColor=white/>    
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711/)
 <br><br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🥇 Stats </h2>
 <div align=center>
