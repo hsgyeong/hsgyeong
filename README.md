@@ -1,24 +1,16 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SG%20GitHub&fontSize=50&fontColor=auto&fontWeight=light)
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 😃 About me </h2>
 끊임없이 도전하고 성장하여 사용자에게 가치있는 경험을 전하는 개발자가 되겠습니다.<br><br><br>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711)
-<img src="http://mazandi.herokuapp.com/api?handle=sgyeong0711&theme=warm"/>
-
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
-
 | 소속 및 단체 | 기간 | 내용 |
 |--------------|------|------|
 | 쌍용교육센터 | 2023.06 ~ 2023.12 | AWS, Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료 |
-
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
-
 | 기간                  	| 내용     	| 역할                                                 	|
 |-----------------------	|----------	|------------------------------------------------------	|
 | 2023.09.01~2023.09.22 	| Jeju하다 	| 리뷰페이지                                           	|
 | 2023.11.12~2023.11.30 	| <a herf="https://github.com/hsgyeong/FinalProject">TRIVIEW  	| 로그인&로그아웃,회원가입,마이페이지,예약 숙소 리스트 	|
-
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
@@ -56,11 +48,10 @@
 <div align=center>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px"><br><br>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711)
+<img src="http://mazandi.herokuapp.com/api?handle=sgyeong0711&theme=warm"/>
 </div>
 <br><br>
-
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
