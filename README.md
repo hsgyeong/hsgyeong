@@ -2,11 +2,13 @@
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 😃 About me </h2>
 끊임없이 도전하고 성장하여 사용자에게 가치있는 경험을 전하는 개발자가 되겠습니다.<br><br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
+
 | 소속 및 단체 | 기간 | 내용 |
 |--------------|------|------|
 | 쌍용교육센터 | 2023.06 ~ 2023.12 | AWS, Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료 |
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
+
 | 기간                  	| 내용     	| 역할                                                 	|
 |-----------------------	|----------	|------------------------------------------------------	|
 | 2023.09.01~2023.09.22 	| Jeju하다 	| 리뷰페이지                                           	|
