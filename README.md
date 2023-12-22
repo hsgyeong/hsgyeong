@@ -37,7 +37,7 @@
     <b>Databases</b><br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">
-    <br><br>
+    <br>
    <!-- <b>Communication</b><br><br>
     <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon&20EC2&logoColor=white">
      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
