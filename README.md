@@ -52,7 +52,7 @@
 <div align=center>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="40%" height="150px">
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px"><br><br>
-<div style="float:right">
+<div float=right>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711&width=40%)](https://solved.ac/sgyeong0711/)<br>
 
