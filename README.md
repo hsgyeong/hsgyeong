@@ -6,6 +6,7 @@
 | 소속 및 단체 | 기간 | 내용 |
 |--------------|------|------|
 | 쌍용교육센터 | 2023.06 ~ 2023.12 | AWS, Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료 |
+
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
 
@@ -13,6 +14,7 @@
 |-----------------------	|----------	|------------------------------------------------------	|
 | 2023.09.01~2023.09.22 	| Jeju하다 	| 리뷰페이지                                           	|
 | 2023.11.12~2023.11.30 	| <a herf="https://github.com/hsgyeong/FinalProject">TRIVIEW  	| 로그인&로그아웃,회원가입,마이페이지,예약 숙소 리스트 	|
+
 <br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
@@ -54,6 +56,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=sgyeong0711&theme=warm"/>
 </div>
 <br><br>
+    
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
