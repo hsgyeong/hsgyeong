@@ -57,8 +57,7 @@
 </div>
 <br><br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711)
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sgyeong0711})](https://solved.ac/{sgyeong0711})
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
