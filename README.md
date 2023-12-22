@@ -56,6 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="40%" height="150px"><br><br>
 </div>
 <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sgyeong0711)](https://solved.ac/sgyeong0711)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
