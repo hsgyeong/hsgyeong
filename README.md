@@ -56,7 +56,7 @@
 <div align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://solved.ac/sgyeong0711/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711" width="30%" height="150px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711" width="40%" height="150px">
 </a>
 
 
