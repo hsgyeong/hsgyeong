@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
     <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">
+    <!--<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">-->
     <br><br>
     <b>Databases</b><br><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
