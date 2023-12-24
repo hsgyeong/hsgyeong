@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SG%20GitHub&fontSize=50&fontColor=auto&fontWeight=light)
-<br>
+
 <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsgyeong%2Fhit-counter&count_bg=%237E9BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>-->
 
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 😃 About me </h2>
-끊임없이 도전하고 성장하여 사용자에게 가치있는 경험을 전하는 개발자가 되겠습니다.<br><br><br>
+끊임없이 도전하고 성장하여 사용자에게 가치있는 경험을 전하는 개발자가 되겠습니다.<br><br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
 
 | 소속 및 단체 | 기간 | 내용 |
 |--------------|------|------|
 | 쌍용교육센터 | 2023.06 ~ 2023.12 | AWS, Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료 |
 
-<br><br>
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
 
 | 기간                  	| 내용     	| 역할                                                 	|
@@ -18,7 +18,7 @@
 | 2023.09.01~2023.09.22 	| Jeju하다 	| 리뷰페이지                                           	|
 | 2023.11.12~2023.11.30 	| <a herf="https://github.com/hsgyeong/FinalProject">TRIVIEW  	| 로그인&로그아웃,회원가입,마이페이지,예약 숙소 리스트 	|
 
-<br><br>
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
     <b>Frontend</b><br><br>
@@ -46,7 +46,7 @@
      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Github&logoColor=white">-->  
 </div>
-<br><br>
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💜 Contact me </h2>
 <a href="https://project-sg.tistory.com"><img src="http://img.shields.io/badge/tistory-655ced?style=flat&logo=tistory&link=https://project-sg.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <a href="https://github.com/hsgyeong"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&link=https://project-sg.tistory.com"&logoColor=white/>    
