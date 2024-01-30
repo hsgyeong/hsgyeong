@@ -7,7 +7,7 @@
 
 |소속|기간| 내용 |
 |--------------|------|------|
-| 쌍용교육센터&nbsp;&nbsp;|2023.06 ~<br>2023.12&nbsp;&nbsp;&nbsp;&nbsp;| AWS, Docker & Kubernetes를 활용한<br> Java Full-Stack 개발자 양성과정 수료 |
+| 쌍용교육센터|2023.06 ~<br>2023.12&nbsp;&nbsp;&nbsp;&nbsp;| AWS, Docker & Kubernetes를 활용한<br> Java Full-Stack 개발자 양성과정 수료 |
 
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 💻 Project </h2><br>
