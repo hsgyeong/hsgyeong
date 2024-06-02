@@ -54,14 +54,13 @@
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🥇 Stats </h2>
 <p align=center style="display:flex; align:center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsgyeong&layout=compact" width="32%" height="70%">
-<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="42%" height="100%"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hsgyeong&show_icons=true" width="42%" height="100%">
 </p>
     
 <p align="center" style="display:flex; align:center;">
 <a href="https://solved.ac/sgyeong0711/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sgyeong0711" width="40%" height="100%">
 </a>
-<img src="http://mazandi.herokuapp.com/api?handle=sgyeong0711&theme=warm" width="40%" height="100%">
 </p>
 
     
