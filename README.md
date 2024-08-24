@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SeongGyeong%20GitHub&fontSize=60&fontColor=auto&fontWeight=light)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&fontSize=60&fontColor=auto&fontWeight=light)
 
 <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsgyeong%2Fhit-counter&count_bg=%237E9BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>-->
-<h3 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;">  Hi there👋 <br><br> I'm Seong-gyeong Hong, a growing developer</h3>
-<br><br>
+<h3 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;">  </h3>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
 
 |소속|기간| 내용 |
