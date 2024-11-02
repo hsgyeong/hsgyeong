@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&fontSize=60&fontColor=auto&fontWeight=light)
 
-<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsgyeong%2Fhit-counter&count_bg=%237E9BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>-->
+<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsgyeong%2Fhit-counter&count_bg=%237E9BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 <h3 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;">  </h3>
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🎓 Experience </h2><br>
 
@@ -15,8 +15,10 @@
 |---------------------------------|---------------|-----------------------|
 |2023.09.01~<br>2023.09.22 &nbsp;&nbsp; |[Jeju하다](https://github.com/hsgyeong/SemiProject) |리뷰페이지 |
 |2023.11.12~<br>2023.11.30 &nbsp;&nbsp; |[TRIVIEW](https://github.com/hsgyeong/FinalProject) | 로그인&로그아웃,회원가입, <br> 마이페이지,예약 숙소 리스트  | 
-                                                                                                            
+                                                                                                        
 <br>
+-->
+
 <h2 style="border-bottom: 1px solid #d8dee4; height: 10px; color: #282d33;"> 🛠️ Tech Stacks </h2>
 <div>
     <b>Frontend</b><br>
