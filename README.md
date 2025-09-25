@@ -39,14 +39,15 @@
     <br><br>
     <b>Databases</b><br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MSSQL&logoColor=white">
     <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white">
     <br><br>
     <b>Tool</b><br>
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
   
    <!-- <b>Communication</b><br><br>
     <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon&20EC2&logoColor=white">
